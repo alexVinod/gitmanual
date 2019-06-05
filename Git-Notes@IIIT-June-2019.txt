@@ -1,0 +1,13 @@
+Git Version Control Notes :
+-------------
+	1. Initiate Git 	-> git init
+	2. Configure Git    
+		>> git config user.name "vinodp"
+		>> git config user.name
+		>> git config user.email alex.apssdc@gmail.com
+		>> git config user.email
+
+	2. 
+
+
+

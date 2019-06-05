@@ -1,0 +1,38 @@
+Linux Notes :
+-------------
+1. pwd		-> Returns Current Working Directory
+2. ls		-> List all files and folders in the current directory
+3. Help 	-> Provides documentation on commands
+4. man		-> Provides documentation on commands
+5. Cd 		-> Change Directory
+				* Cd 		: SubFolderName - Navigate to subfolder
+				* Cd 		: navigate to home
+				* Cd-		: navigate to previous location
+				* Cd ..		: navigate to parent folder
+				* Cd ../.. 	: navigates to parent of parent folder
+
+6. Ctrl + l -> Clear Screen
+7. mkdir folderName - Create a newFolder @ present directory
+8. touch test.txt -> creates file
+9. rm -rf f1	-> remove the folder, if files exists also
+10. rmdir f1	-> removes, if folder is empty only
+
+11. echo data in file >> file.txt
+12. echo second line >> file.txt
+13. cat file.txt
+	data i file1
+	second line
+
+14. touch file{1..10}.txt  -> 10 files will creates in directory
+15. echo {1..10}		   -> Returns 1 2 3 4 5 6 7 8 9 10
+16. echo > file.txt
+17. cat file.txt
+18. echo {1..100000} > file.txt
+19. rm file.txt
+20. rm *.txt
+21. rm file{6..10}.txt
+22. rm file*.txt
+23. cat file.txt > file1.txt  -> Copy file from one to another
+24. mv file1.txt file2.txt
+
+
